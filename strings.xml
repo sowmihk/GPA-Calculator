@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="cal">GPA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="gpa">GPA</string>
+    <string name="yy">CALCULATE</string>
+    <string name="ci">COMPOUND INTEREST</string>
+    <string name="s1">SUBJECT1</string>
+    <string name="s2">SUBJECT 2</string>
+    <string name="s3">SUBJECT 3</string>
+    <string name="s4">SUBJECT 4</string>
+    <string name="s5">SUBJECT 5</string>
+    <string name="s6">SUBJECT 6</string>
+    <string name="cg">CALCULATED GPA</string>
+    <string name="m">MARKS</string>
+    <string name="c">CREDIT</string>
+    <string name="mm">GPA CALCULATOR</string>
+    <string name="cc">CALCULATE</string>
+</resources>
